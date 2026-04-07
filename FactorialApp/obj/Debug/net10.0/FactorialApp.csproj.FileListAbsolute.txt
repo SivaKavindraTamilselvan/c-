@@ -1,0 +1,15 @@
+D:\Presidio\C#\FactorialApp\bin\Debug\net10.0\FactorialApp.exe
+D:\Presidio\C#\FactorialApp\bin\Debug\net10.0\FactorialApp.deps.json
+D:\Presidio\C#\FactorialApp\bin\Debug\net10.0\FactorialApp.runtimeconfig.json
+D:\Presidio\C#\FactorialApp\bin\Debug\net10.0\FactorialApp.dll
+D:\Presidio\C#\FactorialApp\bin\Debug\net10.0\FactorialApp.pdb
+D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\FactorialApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\FactorialApp.AssemblyInfoInputs.cache
+D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\FactorialApp.AssemblyInfo.cs
+D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\FactorialApp.csproj.CoreCompileInputs.cache
+D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\FactorialApp.dll
+D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\refint\FactorialApp.dll
+D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\FactorialApp.pdb
+D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\FactorialApp.genruntimeconfig.cache
+D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\ref\FactorialApp.dll
+D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\FactorialApp.sourcelink.json
