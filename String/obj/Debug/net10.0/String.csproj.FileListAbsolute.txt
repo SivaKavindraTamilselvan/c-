@@ -1,0 +1,15 @@
+D:\Presidio\C#\String\bin\Debug\net10.0\String.exe
+D:\Presidio\C#\String\bin\Debug\net10.0\String.deps.json
+D:\Presidio\C#\String\bin\Debug\net10.0\String.runtimeconfig.json
+D:\Presidio\C#\String\bin\Debug\net10.0\String.dll
+D:\Presidio\C#\String\bin\Debug\net10.0\String.pdb
+D:\Presidio\C#\String\obj\Debug\net10.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Presidio\C#\String\obj\Debug\net10.0\String.AssemblyInfoInputs.cache
+D:\Presidio\C#\String\obj\Debug\net10.0\String.AssemblyInfo.cs
+D:\Presidio\C#\String\obj\Debug\net10.0\String.csproj.CoreCompileInputs.cache
+D:\Presidio\C#\String\obj\Debug\net10.0\String.sourcelink.json
+D:\Presidio\C#\String\obj\Debug\net10.0\String.dll
+D:\Presidio\C#\String\obj\Debug\net10.0\refint\String.dll
+D:\Presidio\C#\String\obj\Debug\net10.0\String.pdb
+D:\Presidio\C#\String\obj\Debug\net10.0\String.genruntimeconfig.cache
+D:\Presidio\C#\String\obj\Debug\net10.0\ref\String.dll
