@@ -14,3 +14,4 @@ Write a console application that calculates the factorial of a given number.
 https://1drv.ms/o/c/4821c09fc343da3e/IgBlxy46IoW3QqA9KDAbyXh1AbKsxZdj8dW1sOAD6oRmj2k?e=Uv7Ezo
 
 ## Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cadf1cbb-d4d0-4283-a2ec-12ebe2a4d333" />
