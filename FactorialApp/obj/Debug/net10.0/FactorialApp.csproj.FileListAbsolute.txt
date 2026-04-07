@@ -12,3 +12,4 @@ D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\refint\FactorialApp.dll
 D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\FactorialApp.pdb
 D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\FactorialApp.genruntimeconfig.cache
 D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\ref\FactorialApp.dll
+D:\Presidio\C#\FactorialApp\obj\Debug\net10.0\FactorialApp.sourcelink.json
