@@ -1,0 +1,15 @@
+D:\Presidio\C#\FileIO\obj\Debug\net10.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Presidio\C#\FileIO\obj\Debug\net10.0\FileIO.AssemblyInfoInputs.cache
+D:\Presidio\C#\FileIO\obj\Debug\net10.0\FileIO.AssemblyInfo.cs
+D:\Presidio\C#\FileIO\obj\Debug\net10.0\FileIO.csproj.CoreCompileInputs.cache
+D:\Presidio\C#\FileIO\obj\Debug\net10.0\FileIO.sourcelink.json
+D:\Presidio\C#\FileIO\bin\Debug\net10.0\FileIO.exe
+D:\Presidio\C#\FileIO\bin\Debug\net10.0\FileIO.deps.json
+D:\Presidio\C#\FileIO\bin\Debug\net10.0\FileIO.runtimeconfig.json
+D:\Presidio\C#\FileIO\bin\Debug\net10.0\FileIO.dll
+D:\Presidio\C#\FileIO\bin\Debug\net10.0\FileIO.pdb
+D:\Presidio\C#\FileIO\obj\Debug\net10.0\FileIO.dll
+D:\Presidio\C#\FileIO\obj\Debug\net10.0\refint\FileIO.dll
+D:\Presidio\C#\FileIO\obj\Debug\net10.0\FileIO.pdb
+D:\Presidio\C#\FileIO\obj\Debug\net10.0\FileIO.genruntimeconfig.cache
+D:\Presidio\C#\FileIO\obj\Debug\net10.0\ref\FileIO.dll
