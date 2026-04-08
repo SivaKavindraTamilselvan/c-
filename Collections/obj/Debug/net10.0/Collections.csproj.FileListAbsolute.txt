@@ -1,0 +1,15 @@
+D:\Presidio\C#\Collections\obj\Debug\net10.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Presidio\C#\Collections\obj\Debug\net10.0\Collections.AssemblyInfoInputs.cache
+D:\Presidio\C#\Collections\obj\Debug\net10.0\Collections.AssemblyInfo.cs
+D:\Presidio\C#\Collections\obj\Debug\net10.0\Collections.csproj.CoreCompileInputs.cache
+D:\Presidio\C#\Collections\obj\Debug\net10.0\Collections.sourcelink.json
+D:\Presidio\C#\Collections\bin\Debug\net10.0\Collections.exe
+D:\Presidio\C#\Collections\bin\Debug\net10.0\Collections.deps.json
+D:\Presidio\C#\Collections\bin\Debug\net10.0\Collections.runtimeconfig.json
+D:\Presidio\C#\Collections\bin\Debug\net10.0\Collections.dll
+D:\Presidio\C#\Collections\bin\Debug\net10.0\Collections.pdb
+D:\Presidio\C#\Collections\obj\Debug\net10.0\Collections.dll
+D:\Presidio\C#\Collections\obj\Debug\net10.0\refint\Collections.dll
+D:\Presidio\C#\Collections\obj\Debug\net10.0\Collections.pdb
+D:\Presidio\C#\Collections\obj\Debug\net10.0\Collections.genruntimeconfig.cache
+D:\Presidio\C#\Collections\obj\Debug\net10.0\ref\Collections.dll
