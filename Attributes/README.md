@@ -10,3 +10,4 @@ Build an application that discovers and executes methods based on custom attribu
 - [x]  Invoke the discovered methods dynamically and display their outputs
 
 ## screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a42f42e0-adc9-4690-8752-1d36114b17c9" />
