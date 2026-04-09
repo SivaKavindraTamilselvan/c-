@@ -1,0 +1,15 @@
+D:\Presidio\C#\Interface\obj\Debug\net10.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Presidio\C#\Interface\obj\Debug\net10.0\Interface.AssemblyInfoInputs.cache
+D:\Presidio\C#\Interface\obj\Debug\net10.0\Interface.AssemblyInfo.cs
+D:\Presidio\C#\Interface\obj\Debug\net10.0\Interface.csproj.CoreCompileInputs.cache
+D:\Presidio\C#\Interface\obj\Debug\net10.0\Interface.sourcelink.json
+D:\Presidio\C#\Interface\bin\Debug\net10.0\Interface.exe
+D:\Presidio\C#\Interface\bin\Debug\net10.0\Interface.deps.json
+D:\Presidio\C#\Interface\bin\Debug\net10.0\Interface.runtimeconfig.json
+D:\Presidio\C#\Interface\bin\Debug\net10.0\Interface.dll
+D:\Presidio\C#\Interface\bin\Debug\net10.0\Interface.pdb
+D:\Presidio\C#\Interface\obj\Debug\net10.0\Interface.dll
+D:\Presidio\C#\Interface\obj\Debug\net10.0\refint\Interface.dll
+D:\Presidio\C#\Interface\obj\Debug\net10.0\Interface.pdb
+D:\Presidio\C#\Interface\obj\Debug\net10.0\Interface.genruntimeconfig.cache
+D:\Presidio\C#\Interface\obj\Debug\net10.0\ref\Interface.dll
