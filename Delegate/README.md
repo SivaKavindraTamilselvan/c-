@@ -8,3 +8,4 @@ Build a console-based event-driven application (e.g., a counter that triggers an
 - [x]  Demonstrate how events can decouple the producer and consumer logic
 
 ## Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84ce33f8-11ad-4ee7-9f73-5ea14523cc29" />
