@@ -35,6 +35,7 @@ class Program
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
+                return new List<ImageData>();
             }
 
         }
