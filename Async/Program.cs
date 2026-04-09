@@ -19,33 +19,50 @@ class Program
     {
         using (HttpClient client = new HttpClient())
         {
-            string url = "https://picsum.photos/v2/list?page=2&limit=10";
+            try
+            {
+                string url = "https://picsum.photos/v2/list?page=2&limit=10";
 
-            var response = await client.GetAsync(url);
-            response.EnsureSuccessStatusCode();
+                var response = await client.GetAsync(url);
+                response.EnsureSuccessStatusCode();
 
-            var json = await response.Content.ReadAsStringAsync();
+                var json = await response.Content.ReadAsStringAsync();
 
-            var data = JsonSerializer.Deserialize<List<ImageData>>(json);
+                var data = JsonSerializer.Deserialize<List<ImageData>>(json);
 
-            return data ?? new List<ImageData>();
+                return data ?? new List<ImageData>();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return new List<ImageData>();
+            }
+
         }
     }
     static async Task Main(string[] args)
     {
-        Console.WriteLine("Start the Task");
-
-        await Task.Delay(5000);
-        Console.WriteLine("Waited for 5 seconds");
-
-        var images = await FetchData();
-
-        foreach (var image in images)
+        try
         {
-            Console.WriteLine($"Author: {image.author}");
-            Console.WriteLine($"URL: {image.download_url}");
-            Console.WriteLine("");
+            Console.WriteLine("Start the Task");
+
+            await Task.Delay(5000);
+            Console.WriteLine("Waited for 5 seconds");
+
+            var images = await FetchData();
+
+            foreach (var image in images)
+            {
+                Console.WriteLine($"Author: {image.author}");
+                Console.WriteLine($"URL: {image.download_url}");
+                Console.WriteLine("");
+            }
         }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
+
 
     }
 }
