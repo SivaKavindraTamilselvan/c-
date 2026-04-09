@@ -12,3 +12,4 @@ Implement a generic in-memory repository to perform CRUD operations.
 
 ## screenshots
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/619b1bfe-42bd-49c7-b0d5-90fbdc726a58" />
