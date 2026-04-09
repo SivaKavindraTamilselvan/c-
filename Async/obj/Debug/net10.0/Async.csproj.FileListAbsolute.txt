@@ -1,0 +1,15 @@
+D:\Presidio\C#\Async\obj\Debug\net10.0\Async.GeneratedMSBuildEditorConfig.editorconfig
+D:\Presidio\C#\Async\obj\Debug\net10.0\Async.AssemblyInfoInputs.cache
+D:\Presidio\C#\Async\obj\Debug\net10.0\Async.AssemblyInfo.cs
+D:\Presidio\C#\Async\obj\Debug\net10.0\Async.csproj.CoreCompileInputs.cache
+D:\Presidio\C#\Async\obj\Debug\net10.0\Async.sourcelink.json
+D:\Presidio\C#\Async\bin\Debug\net10.0\Async.exe
+D:\Presidio\C#\Async\bin\Debug\net10.0\Async.deps.json
+D:\Presidio\C#\Async\bin\Debug\net10.0\Async.runtimeconfig.json
+D:\Presidio\C#\Async\bin\Debug\net10.0\Async.dll
+D:\Presidio\C#\Async\bin\Debug\net10.0\Async.pdb
+D:\Presidio\C#\Async\obj\Debug\net10.0\Async.dll
+D:\Presidio\C#\Async\obj\Debug\net10.0\refint\Async.dll
+D:\Presidio\C#\Async\obj\Debug\net10.0\Async.pdb
+D:\Presidio\C#\Async\obj\Debug\net10.0\Async.genruntimeconfig.cache
+D:\Presidio\C#\Async\obj\Debug\net10.0\ref\Async.dll
