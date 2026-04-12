@@ -35,3 +35,4 @@ D:\Presidio\C#\CollegeApi\obj\Debug\net10.0\refint\CollegeApi.dll
 D:\Presidio\C#\CollegeApi\obj\Debug\net10.0\CollegeApi.pdb
 D:\Presidio\C#\CollegeApi\obj\Debug\net10.0\CollegeApi.genruntimeconfig.cache
 D:\Presidio\C#\CollegeApi\obj\Debug\net10.0\ref\CollegeApi.dll
+D:\Presidio\C#\CollegeApi\bin\Debug\net10.0\Scalar.AspNetCore.dll

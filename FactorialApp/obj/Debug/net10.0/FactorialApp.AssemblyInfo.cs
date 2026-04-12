@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FactorialApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d77d724ebb065f340c4bdc48114c43703604c396")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a10941f0e7af3edffe4315468ae01f7bc424692b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FactorialApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FactorialApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
